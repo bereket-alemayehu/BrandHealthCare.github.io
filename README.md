@@ -3,7 +3,6 @@
 ![Dart CI](https://github.com/TheAlphamerc/flutter_healthcare_app/workflows/Dart%20CI/badge.svg) ![GitHub pull requests](https://img.shields.io/github/issues-pr/TheAlphamerc/flutter_healthcare_app) ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/Thealphamerc/flutter_healthcare_app) ![GitHub last commit](https://img.shields.io/github/last-commit/Thealphamerc/flutter_healthcare_app)  ![GitHub issues](https://img.shields.io/github/issues-raw/Thealphamerc/flutter_healthcare_app) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Thealphamerc/flutter_healthcare_app) 
 
 
-Healthcare app is a design implementaion of [Healthcare Mobile App](https://www.uplabs.com/posts/healthcare-mobile-app-d9081ded-e7b3-4705-8990-82ead42c22da) designed by [Chirag Chauhan](https://www.uplabs.com/chirag_designer2610)
 
 ## Download App ![GitHub All Releases](https://img.shields.io/github/downloads/Thealphamerc/flutter_healthcare_app/total?color=green)
 <a href="https://github.com/TheAlphamerc/flutter_healthcare_app/releases/download/v1.0.0/app-release.apk"><img src="https://playerzon.com/asset/download.png" width="200"></img></a>
