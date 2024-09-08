@@ -1,5 +1,4 @@
 
-![Dart CI](https://github.com/TheAlphamerc/flutter_healthcare_app/workflows/Dart%20CI/badge.svg) ![GitHub pull requests](https://img.shields.io/github/issues-pr/TheAlphamerc/flutter_healthcare_app) ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/Thealphamerc/flutter_healthcare_app) ![GitHub last commit](https://img.shields.io/github/last-commit/Thealphamerc/flutter_healthcare_app)  ![GitHub issues](https://img.shields.io/github/issues-raw/Thealphamerc/flutter_healthcare_app) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Thealphamerc/flutter_healthcare_app) 
 
 
 
